@@ -26,8 +26,6 @@ Um jogo simples onde o objetivo é adivinhar o número secreto gerado aleatoriam
 
 📧 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/seu-perfil) ou me enviar um e-mail: wanderson.moreira011297@gmail.com
 
-<img src="https://github.com/user-attachments/assets/a0501c3d-7a52-4c05-b8f2-a62b76c1e46d" alt="Foto do Criador" width="95" style="border: 2px solid #000; border-radius: 5px;">
-
 ---
 **Nick:** NooBy
 
